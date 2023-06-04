@@ -1,0 +1,34 @@
+{
+  "locale": {
+    "en": "English",
+    "es": "Español"
+  },
+  "nav": {
+    "home": "Inicio",
+    "app": "App"
+  },
+  "home": {
+    "header": "Bienvenido al tutorial de Vue 3 I18n!",
+    "created_by": "Este tutorial es brindado por {company}.",
+    "num_visits": "Esta página no ha sido visitada :( | Esta página ha sido visitada {n} vez | Esta página ha sido visitada {n} veces"
+  },
+  "about": {
+    "header": "Nosotros",
+    "donations": "Donaciones realizadas: {donations}"
+  },
+  "user": {
+    "google_button": "Usar Google",
+    "company_slogan": "Somos más que una simple compañía",
+    "company_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sign_in_with": "Entrar con",
+    "sign_in_or": "O",
+    "password_placeholder": "contraseña",
+    "email_placeholder": "dirección de correo",
+    "forgot_password": "Olvidó la contraseña?",
+    "submit": "enviar",
+    "no_account": "No tienes usuario?",
+    "register_account": "Regístrate",
+    "forgot_title": "Restablecer Contraseña",
+    "forgot_alert": "Si su correo existe en nuestros usuarios, recibirá un correo con las instrucciones para el cambio."
+  }
+}

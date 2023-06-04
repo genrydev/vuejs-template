@@ -1,0 +1,30 @@
+{
+  "locale": {
+    "en": "English",
+    "es": "Español"
+  },
+  "nav": {
+    "home": "Home",
+    "app": "App"
+  },
+  "home": {
+    "header": "Welcome to the Vue 3 template!",
+    "created_by": "This template was created by {autor_email}.",
+    "num_visits": "This page hasn't been visited :( | This page has been visited {n} time | This page has been visited {n} times"
+  },
+  "user": {
+    "google_button": "Using Google",
+    "company_slogan": "We are more than just a company",
+    "company_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "sign_in_with": "Sign in with",
+    "sign_in_or": "Or",
+    "password_placeholder": "password",
+    "email_placeholder": "email address",
+    "forgot_password": "Forgot password?",
+    "submit": "submit",
+    "no_account": "Don't have an account?",
+    "register_account": "Register",
+    "forgot_title": "Reset Password",
+    "forgot_alert": "If your email exists in our users, you will receive an email with the instructions for the change."
+  }
+}
